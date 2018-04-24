@@ -1,8 +1,8 @@
-# flutter_list
+# Flutter List View
 
-A new Flutter project.
+A Flutter List View Project.
 
-## Getting Started
+## Documentation
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+This project is created based on 
+[this tutorial](https://flutter.io/get-started/codelab/).
